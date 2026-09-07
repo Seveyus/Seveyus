@@ -29,4 +29,4 @@ Private development; technical case study available on my [portfolio][portfolio]
 [Portfolio][portfolio] · yoann.frayce.dev@gmail.com
 
 <!-- Change the site URL in one place: the link definition below. -->
-[portfolio]: https://yoannfrayce.com
+[portfolio]: https://yoannfrayce.pages.dev
